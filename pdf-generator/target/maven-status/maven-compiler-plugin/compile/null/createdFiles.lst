@@ -1,0 +1,5 @@
+META-INF\panache-archive.marker
+org\acme\resources\UserResource.class
+org\acme\GreetingResource.class
+org\acme\models\User.class
+org\acme\repositories\UserRepository.class
